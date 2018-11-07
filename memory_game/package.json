@@ -1,0 +1,19 @@
+{
+  "name": "memory_game",
+  "version": "0.0.1",
+  "description": "General Assembly prework project",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesliudotcc/wdi-fundamentals-memorygame.git"
+  },
+  "author": "James Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesliudotcc/wdi-fundamentals-memorygame/issues"
+  },
+  "homepage": "https://github.com/jamesliudotcc/wdi-fundamentals-memorygame#readme"
+}
